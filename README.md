@@ -59,7 +59,7 @@
 
 <img align="left" alt="Connor's Github Stats" src="https://github-readme-stats.vercel.app/api?username=grconnor&show_icons=true&hide_border=true" />
 
-
+---
 
 [instagram]: https://www.instagram.com/gr.connor/
 [linkedin]: https://www.linkedin.com/in/connor-roelofsen-01262217a/
