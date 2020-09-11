@@ -20,7 +20,7 @@
 
 [<img align="left" alt="grconnor | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/facebook.svg" />][Facebook]
 
-[<img align="left" alt="grconnor | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/discord.svg" />][Discord]
+[<img align="left" alt="grconnor | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/discord.svg" />][Discord]Connor#4273
 
 <br />
 
@@ -49,7 +49,7 @@
 
 <img align="left" alt="React" width="26px" src="https://img.icons8.com/plasticine/100/000000/react.png" />
 
-<img align="left" alt="MySQL" width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="MySQL" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 
 
 <br />
@@ -64,4 +64,4 @@
 [instagram]: https://www.instagram.com/gr.connor/
 [linkedin]: https://www.linkedin.com/in/connor-roelofsen-01262217a/
 [Facebook]: https://www.facebook.com/connorroelofsen
-[Discord]: "Connor#4273"
+[Discord]: Connor#4273
