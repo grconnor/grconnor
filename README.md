@@ -79,8 +79,6 @@
 [linkedin]: https://www.linkedin.com/in/connor-roelofsen-01262217a/
 [Facebook]: https://www.facebook.com/connorroelofsen
 [Stackoverflow]: https://stackoverflow.com/users/12762498/grconnor
-[Slack]: ConnorRoelofsen
-[Snapchat]: gr.connor
 [Discord]: Connor#4273
 [Windows]: https://www.microsoft.com/
 [Macintosh]: https://www.apple.com/
