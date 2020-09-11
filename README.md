@@ -1,9 +1,5 @@
 ### Hello there stranger 👋🏽 Welcome to my github page 🎉
 
-###
-###
-###
-
 ## I'm a 19 year old kid with dreams of becoming a developer!
 
 - 🇿🇦  Born in the Republic of South Africa.
@@ -20,7 +16,15 @@
 
 [<img align="left" alt="grconnor | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/facebook.svg" />][Facebook]
 
+[<img align="left" alt="grconnor | Slack" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/slack.svg" />][Slack]Connor Roelofsen
+
+[<img align="left" alt="grconnor | StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/stackoverflow.svg" />][StackOverflow]
+
+[<img align="left" alt="grconnor | Snapchat" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/snapchat.svg" />][Snapchat]gr.connor
+
 [<img align="left" alt="grconnor | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/discord.svg" />][Discord]Connor#4273
+
+
 
 
 ### OS that I use:
@@ -68,13 +72,15 @@
 <br />
 <br />
 <br />
-<br />
 
 ---
 
 [instagram]: https://www.instagram.com/gr.connor/
 [linkedin]: https://www.linkedin.com/in/connor-roelofsen-01262217a/
 [Facebook]: https://www.facebook.com/connorroelofsen
+[Stackoverflow]: https://stackoverflow.com/users/12762498/grconnor
+[Slack]: ConnorRoelofsen
+[Snapchat]: gr.connor
 [Discord]: Connor#4273
 [Windows]: https://www.microsoft.com/
 [Macintosh]: https://www.apple.com/
