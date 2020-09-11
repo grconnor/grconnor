@@ -49,7 +49,7 @@
 
 <img align="left" alt="React" width="26px" src="https://img.icons8.com/plasticine/100/000000/react.png" />
 
-<img align="left" alt="MySQL" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="MySQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 
 
 <br />
@@ -65,3 +65,5 @@
 [linkedin]: https://www.linkedin.com/in/connor-roelofsen-01262217a/
 [Facebook]: https://www.facebook.com/connorroelofsen
 [Discord]: Connor#4273
+[Windows]: ""
+[Macintosh]: ""
