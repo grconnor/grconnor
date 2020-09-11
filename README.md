@@ -36,9 +36,9 @@
 
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 
-<img align="left" alt="Python" width="32px" src="./img/Python_32px.png" />
+<img align="left" alt="Python"  src="./img/Python_32px.png" />
 
-<img align="left" alt="Postgresql" width="32px" src="./img/Database_32px.png" />
+<img align="left" alt="Postgresql" src="./img/Database_32px.png" />
 
 <br />
 <br />
