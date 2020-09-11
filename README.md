@@ -20,7 +20,7 @@
 
 [<img align="left" alt="grconnor | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/facebook.svg" />][Facebook]
 
-[<img align="left" alt="grconnor | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/discord.svg" />][Discord](#Connor#4273)
+[<img align="left" alt="grconnor | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/discord.svg" />][Discord]Connor#4273
 
 <br />
 
@@ -63,4 +63,3 @@
 [instagram]: https://www.instagram.com/gr.connor/
 [linkedin]: https://www.linkedin.com/in/connor-roelofsen-01262217a/
 [Facebook]: https://www.facebook.com/connorroelofsen
-[Discord]: "Connor#4273"
