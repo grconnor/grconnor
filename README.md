@@ -80,5 +80,7 @@
 [Facebook]: https://www.facebook.com/connorroelofsen
 [Stackoverflow]: https://stackoverflow.com/users/12762498/grconnor
 [Discord]: Connor#4273
+[Slack]: ConnorRoelofsen
+[Snapchat]: gr.connor
 [Windows]: https://www.microsoft.com/
 [Macintosh]: https://www.apple.com/
