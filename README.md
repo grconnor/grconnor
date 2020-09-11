@@ -76,5 +76,5 @@
 [linkedin]: https://www.linkedin.com/in/connor-roelofsen-01262217a/
 [Facebook]: https://www.facebook.com/connorroelofsen
 [Discord]: Connor#4273
-[Windows]: nil
-[Macintosh]: nil
+[Windows]: https://www.microsoft.com/
+[Macintosh]: https://www.apple.com/
