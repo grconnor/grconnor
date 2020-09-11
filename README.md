@@ -63,3 +63,4 @@
 [instagram]: https://www.instagram.com/gr.connor/
 [linkedin]: https://www.linkedin.com/in/connor-roelofsen-01262217a/
 [Facebook]: https://www.facebook.com/connorroelofsen
+[Discord]: "Connor#4273"
