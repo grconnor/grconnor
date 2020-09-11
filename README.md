@@ -59,6 +59,9 @@
 
 <img align="left" alt="Connor's Github Stats" src="https://github-readme-stats.vercel.app/api?username=grconnor&show_icons=true&hide_border=true" />
 
+<br />
+<br />
+
 ---
 
 [instagram]: https://www.instagram.com/gr.connor/
