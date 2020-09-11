@@ -8,18 +8,19 @@
 
 - 🇿🇦 Born in the Republic of South Africa.
 - 📍 Currently living in Stockholm, Sweden.
-- 📍 Currently living in Stockholm, Sweden.
-- 📍 Currently living in Stockholm, Sweden.
-- 📍 Currently living in Stockholm, Sweden.
+- ⏱️ Started my development journey in 2020.
+- 🤖 AI has already taken over.
+- 🐜 It's not a bug, it's an undocumented feature.
  
 
-### Connect with me:
+### My socials:
 [<img align="left" alt="odeane | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="odeane | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="odeane | Instagram" width="22px" src="https://cdn.jsdelivr.net/
+
 
 <br />
 
-### Languages and Tools:
+### Languages and Tools I use:
 
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
@@ -35,9 +36,9 @@
 
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 
-<img align="left" alt="Python" width="26px" src="./img/Python_32px.png" />
+<img align="left" alt="Python" width="32px" src="./img/Python_32px.png" />
 
-<img align="left" alt="Postgresql" width="26px" src="./img/Database_32px.png" />
+<img align="left" alt="Postgresql" width="32px" src="./img/Database_32px.png" />
 
 <br />
 <br />
