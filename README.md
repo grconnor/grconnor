@@ -16,15 +16,6 @@
 - - 🐜  They're not bugs, they're just undocumented features.
 ```
 
-## I'm a 19 year old kid with dreams of becoming a developer!
-
-- 🇿🇦  Born in the Republic of South Africa.
-- 📍  Currently living in Stockholm, Sweden.
-- ⏱️  Started my development journey in 2020.
-- 🤖  AI has already taken over.
-- 🐜  They're not bugs, they're just undocumented features.
- 
-
 ### My socials:
 [<img align="left" alt="grconnor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
