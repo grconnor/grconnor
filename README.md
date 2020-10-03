@@ -1,4 +1,4 @@
-<img src="https://i.makeagif.com/media/12-14-2015/CUIA8d.gif" width="500" height="500">
+<img src="https://i.makeagif.com/media/12-14-2015/CUIA8d.gif" width="400" height="200">
 
 ### Hello there stranger 👋🏽 Welcome to my github page 🎉
 
