@@ -1,3 +1,5 @@
+![Dino Gif](https://i.makeagif.com/media/12-14-2015/CUIA8d.gif)
+
 ### Hello there stranger 👋🏽 Welcome to my github page 🎉
 
 ## I'm a 19 year old kid with dreams of becoming a developer!
