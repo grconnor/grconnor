@@ -1,11 +1,15 @@
 <img src="https://i.makeagif.com/media/12-14-2015/CUIA8d.gif" width="550" height="200">
 
 ```diff
-- text in red
+
+- Hello there stranger 👋🏽 Welcome to my github page - 
+```
+### Hello there stranger 👋🏽 Welcome to my github page 🎉
+
+```diff
+
 @@ Hello there stranger 👋🏽 Welcome to my github page @@
 ```
-
-### Hello there stranger 👋🏽 Welcome to my github page 🎉
 
 ## I'm a 19 year old kid with dreams of becoming a developer!
 
