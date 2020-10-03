@@ -7,13 +7,13 @@
 
 ```diff
 
--  I'm a 19 year old kid with dreams of becoming a developer!
+--  I'm a 19 year old kid with dreams of becoming a developer! --–
 
-- - 🇿🇦  Born in the Republic of South Africa.
-- - 📍  Currently living in Stockholm, Sweden.
-- - ⏱️  Started my development journey in 2020.
-- - 🤖  AI has already taken over.
-- - 🐜  They're not bugs, they're just undocumented features.
+- 🇿🇦  Born in the Republic of South Africa.
+- 📍  Currently living in Stockholm, Sweden.
+- ⏱️  Started my development journey in 2020.
+- 🤖  AI has already taken over.
+- 🐜  They're not bugs, they're just undocumented features.
 ```
 
 ### My socials:
