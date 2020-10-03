@@ -1,4 +1,4 @@
-![Dino Gif](https://i.makeagif.com/media/12-14-2015/CUIA8d.gif)
+![Dino Gif](https://i.makeagif.com/media/12-14-2015/CUIA8d.gif) ![Dino Gif2](https://i.makeagif.com/media/12-14-2015/CUIA8d.gif)
 
 ### Hello there stranger 👋🏽 Welcome to my github page 🎉
 
