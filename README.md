@@ -17,6 +17,20 @@
 ```
 
 ### My socials:
+
+<p align='center'>
+<a href="https://dev.to/grconnor"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/dev.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/RoelofsenConnor"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/gr.connor/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/connor-roelofsen-01262217a/"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/connorroelofsen/"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/facebook.svg"></a>&nbsp;&nbsp;
+<a href="https://stackoverflow.com/users/12762498/grconnor"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/stackoverflow.svg"></a>&nbsp;&nbsp;
+<a href="slack username"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/slack.svg"></a>&nbsp;&nbsp;
+<a href="snapchat username"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/snapchat.svg"></a>&nbsp;&nbsp;
+
+<a href="discord username"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/discord.svg"></a>
+</p>
+
 [<img align="left" alt="grconnor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [<img align="left" alt="grconnor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -73,9 +87,9 @@
 <br />
 <br />
 
----
+--------------------------------------------------------------------------------------
 
-<img align="left" alt="Connor's Github Stats" src="https://github-readme-stats.vercel.app/api?username=grconnor&show_icons=true&hide_border=true" />
+![Connor's Github Stats](https://github-readme-stats.vercel.app/api?username=grconnor&show_icons=true&theme=radical)
 
 <br />
 <br />
@@ -87,7 +101,7 @@
 <br />
 <br />
 
----
+--------------------------------------------------------------------------------------
 
 [instagram]: https://www.instagram.com/gr.connor/
 [linkedin]: https://www.linkedin.com/in/connor-roelofsen-01262217a/
