@@ -31,21 +31,11 @@
 <a href="discord username"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/discord.svg"></a>
 </p>
 
-[<img align="left" alt="grconnor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[<img align="left" alt="grconnor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[<img align="left" alt="grconnor | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/facebook.svg" />][Facebook]
-
 [<img align="left" alt="grconnor | Slack" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/slack.svg" />][Slack]Connor Roelofsen
-
-[<img align="left" alt="grconnor | StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/stackoverflow.svg" />][StackOverflow]
 
 [<img align="left" alt="grconnor | Snapchat" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/snapchat.svg" />][Snapchat]gr.connor
 
 [<img align="left" alt="grconnor | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/discord.svg" />][Discord]Connor#4273
-
-
 
 
 ### OS that I use:
