@@ -61,6 +61,11 @@
 <br />
 <br />
 
+[![Coverage Status](https://coveralls.io/repos/github/CraftAcademy/funny_jokes_api_team_2/badge.svg?branch=development)](https://coveralls.io/github/CraftAcademy/funny_jokes_api_team_2?branch=development)
+
+<br />
+<br />
+
 ---
 
 <img align="left" alt="Connor's Github Stats" src="https://github-readme-stats.vercel.app/api?username=grconnor&show_icons=true&hide_border=true" />
