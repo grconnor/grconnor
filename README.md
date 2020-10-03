@@ -25,17 +25,14 @@
 <a href="https://www.linkedin.com/in/connor-roelofsen-01262217a/"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"></a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/connorroelofsen/"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/facebook.svg"></a>&nbsp;&nbsp;
 <a href="https://stackoverflow.com/users/12762498/grconnor"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/stackoverflow.svg"></a>&nbsp;&nbsp;
-<a href="slack username"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/slack.svg"></a>&nbsp;&nbsp;
-<a href="snapchat username"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/snapchat.svg"></a>&nbsp;&nbsp;
 
-<a href="discord username"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/discord.svg"></a>
 </p>
 
-[<img align="left" alt="grconnor | Slack" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/slack.svg" />][Slack]Connor Roelofsen
+[<img align="center" alt="grconnor | Slack" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/slack.svg" />][Slack]Connor Roelofsen
 
-[<img align="left" alt="grconnor | Snapchat" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/snapchat.svg" />][Snapchat]gr.connor
+[<img align="center" alt="grconnor | Snapchat" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/snapchat.svg" />][Snapchat]gr.connor
 
-[<img align="left" alt="grconnor | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/discord.svg" />][Discord]Connor#4273
+[<img align="center" alt="grconnor | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/discord.svg" />][Discord]Connor#4273
 
 
 ### OS that I use:
@@ -102,3 +99,7 @@
 [Snapchat]: gr.connor
 [Windows]: https://www.microsoft.com/
 [Macintosh]: https://www.apple.com/
+
+<!-- <a href="slack username"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/slack.svg"></a>&nbsp;&nbsp;
+<a href="snapchat username"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/snapchat.svg"></a>&nbsp;&nbsp;
+<a href="discord username"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/discord.svg"></a> -->
