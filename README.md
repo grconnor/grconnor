@@ -1,6 +1,4 @@
-<img src="https://i.makeagif.com/media/12-14-2015/CUIA8d.gif" width="400" height="790">
-
-![Dino Gif](https://i.makeagif.com/media/12-14-2015/CUIA8d.gif) ![Dino Gif2](https://i.makeagif.com/media/12-14-2015/CUIA8d.gif)
+<img src="https://i.makeagif.com/media/12-14-2015/CUIA8d.gif" width="500" height="500">
 
 ### Hello there stranger 👋🏽 Welcome to my github page 🎉
 
