@@ -28,11 +28,11 @@
 
 </p>
 
-[<img align="center" alt="grconnor | Slack" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/slack.svg" />][Slack]Connor Roelofsen
+[<img align="center" alt="grconnor | Slack" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/slack.svg" />][Slack] Connor Roelofsen
 
-[<img align="center" alt="grconnor | Snapchat" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/snapchat.svg" />][Snapchat]gr.connor
+[<img align="center" alt="grconnor | Snapchat" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/snapchat.svg" />][Snapchat] gr.connor
 
-[<img align="center" alt="grconnor | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/discord.svg" />][Discord]Connor#4273
+[<img align="center" alt="grconnor | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/discord.svg" />][Discord] Connor#4273
 
 
 ### OS that I use:
