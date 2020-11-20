@@ -8,7 +8,7 @@
 - 🐜  They're not bugs, they're just undocumented features.
 ```
 
-```
+
 ### My Languages:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -47,7 +47,7 @@
 ![Coveralls](https://img.shields.io/badge/-Coveralls-3F5767?style=flat-square&logo=coveralls)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest)
 ![RSpec](https://img.shields.io/badge/-RSpec-red?430098?style=flat-square)
-```
+
 
 --------------------------------------------------------------------------------------
 
@@ -58,7 +58,7 @@
 ### My socials:
 
 <a href="https://dev.to/grconnor"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/dev.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/RoelofsenConnor"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/RoelofsenConnor"><img height="30" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/3.12.3/twitter.js"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/connor-roelofsen-01262217a/"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"></a>&nbsp;&nbsp;
 
 [instagram]: https://www.instagram.com/gr.connor/
