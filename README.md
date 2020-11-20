@@ -1,10 +1,5 @@
 ```diff
 
-- Hello there stranger 👋🏽 Welcome to my github page - 
-```
-
-```diff
-
 --  I'm a 19 year full stack web developer wanting to learn as much as possible! --–
 
 - 🇿🇦  Born in the Republic of South Africa.
