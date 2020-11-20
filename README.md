@@ -31,6 +31,8 @@
 
 <img align="left" src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 
+<br />
+
 ### My Frameworks:
 
 <img align="left" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
@@ -76,10 +78,6 @@
 <img align="left" src="https://img.shields.io/badge/-Pivotal%20Tracker-430098?style=flat-square&logo=pivotal-tracker"/>
 
 <img align="left" src="https://img.shields.io/badge/-Coveralls-3F5767?style=flat-square&logo=coveralls"/>
-
-<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/microsoft.svg">
-
-<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/apple.svg">
 
 
 --------------------------------------------------------------------------------------
