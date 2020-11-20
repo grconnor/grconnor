@@ -8,6 +8,7 @@
 - 🐜  They're not bugs, they're just undocumented features.
 ```
 
+```diff
 ### My Languages:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -46,6 +47,7 @@
 ![Coveralls](https://img.shields.io/badge/-Coveralls-3F5767?style=flat-square&logo=coveralls)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest)
 ![RSpec](https://img.shields.io/badge/-RSpec-red?430098?style=flat-square)
+```
 
 --------------------------------------------------------------------------------------
 
