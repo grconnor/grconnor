@@ -8,7 +8,7 @@
 - 🐜  They're not bugs, they're just undocumented features.
 ```
 
-```diff
+```
 ### My Languages:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
