@@ -58,3 +58,5 @@
 --------------------------------------------------------------------------------------
 
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">](https://www.linkedin.com/in/connor-roelofsen/)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=grconnor&repo=client_admin_el_gaucho_nyheter)](https://github.com/grconnor/client_admin_el_gaucho_nyheter)
