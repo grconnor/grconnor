@@ -27,6 +27,8 @@
 ![React-Native](https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=flat-square&logo=react-native)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux)
 ![Express.js](https://img.shields.io/badge/-Express-430098?style=flat-square)
+![Semaphore](https://img.shields.io/badge/-Semaphore-grey?19A974?style=flat-square&logo=semaphore-ci)
+![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress)
 ![SemanticUI](https://img.shields.io/badge/-Semantic%20UI-430098?style=flat-square)
 ![MaterialUI](https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=flat-square&logo=materialui)
 ![Webpack](https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=flat-square&logo=webpack)
@@ -56,10 +58,3 @@
 --------------------------------------------------------------------------------------
 
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">](https://www.linkedin.com/in/connor-roelofsen/)
-
-<!-- <a href="https://dev.to/grconnor"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/dev.png?raw=true"></a>&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/connor-roelofsen-01262217a/"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"></a>&nbsp;&nbsp; -->
-
-<!-- [instagram]: https://www.instagram.com/gr.connor/
-[linkedin]: https://www.linkedin.com/in/connor-roelofsen/ -->
