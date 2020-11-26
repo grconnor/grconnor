@@ -55,7 +55,7 @@
 
 ![Connor's Github Stats](https://github-readme-stats.vercel.app/api?username=grconnor&show_icons=true&theme=radical)
 
-[![Connor's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=grconnor)](https://github.com/grconnor/github-readme-stats)
+<!-- [![Connor's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=grconnor)](https://github.com/grconnor/github-readme-stats) -->
 
 
 --------------------------------------------------------------------------------------
