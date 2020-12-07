@@ -1,21 +1,22 @@
 ```diff
 
---  I'm a 19 year full stack web developer eager to learn as much as possible! --–
+--  A full stack web developer eager to learn as much as possible! --–
 
 - 🇿🇦  Born in the Republic of South Africa.
 - 📍  Currently living in Stockholm, Sweden.
 - ⏱️  Started my development journey in 2020.
-- 🐜  They're not bugs, they're just undocumented features.
+- 
+- 
 ```
 
 
 ### My Languages:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby)
 ![Node.js](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?&style=flat-square&logo=markdown)
 ![Shell-Script](https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=flat-square&logo=shell-script)
 
