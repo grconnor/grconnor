@@ -7,7 +7,7 @@
 - ⏱️  Started my development journey in 2020.
 - 📖  Currently learning about / diving deeper into: 
 -     Ubuntu, Apache2, private hosting, domain management,
--     Cloudflare, MongoDB, MySQL.
+-     Cloudflare, MongoDB and MySQL.
 ```
 
 --------------------------------------------------------------------------------------
