@@ -5,8 +5,9 @@
 - 🇿🇦  Born in the Republic of South Africa.
 - 📍  Currently living in Stockholm, Sweden.
 - ⏱️  Started my development journey in 2020.
-- 📖  Currently studying / learning about: ssh, 
-     private    
+- 📖  Currently learning about / diving deeper into: 
+-     Ubuntu, Apache2, private hosting, domain management,
+-     Cloudflare, MongoDB, MySQL.
 ```
 
 --------------------------------------------------------------------------------------
