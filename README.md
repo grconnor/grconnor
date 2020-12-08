@@ -5,10 +5,11 @@
 - 🇿🇦  Born in the Republic of South Africa.
 - 📍  Currently living in Stockholm, Sweden.
 - ⏱️  Started my development journey in 2020.
-- 
-- 
+- 📖  Currently studying / learning about: ssh, 
+     private    
 ```
 
+--------------------------------------------------------------------------------------
 
 ### My Languages:
 
