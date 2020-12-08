@@ -5,7 +5,7 @@
 - 🇿🇦  Born in the Republic of South Africa.
 - 📍  Currently living in Stockholm, Sweden.
 - ⏱️  Started my development journey in 2020.
-- 📖  Currently learning about / diving deeper into: 
+- 📖  Currently learning / diving deeper into: 
 -     Ubuntu, Apache2, private hosting, domain management,
 -     Cloudflare, MongoDB and MySQL.
 ```
@@ -20,7 +20,6 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?&style=flat-square&logo=markdown)
-![Shell-Script](https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=flat-square&logo=shell-script)
 
 
 ### My Frameworks:
