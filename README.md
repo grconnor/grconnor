@@ -22,7 +22,7 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?&style=flat-square&logo=markdown)
 
 
-### My Frameworks adn Tools:
+### My Frameworks and Tools:
 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000?style=flat-square&logo=ruby-on-rails)
