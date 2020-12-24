@@ -59,7 +59,6 @@
 
 <!-- [![Connor's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=grconnor)](https://github.com/grconnor/github-readme-stats) -->
 
-
 --------------------------------------------------------------------------------------
 
 [<img height="100" width="100" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">](https://www.linkedin.com/in/connor-roelofsen/)
