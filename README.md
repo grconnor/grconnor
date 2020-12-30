@@ -61,7 +61,7 @@
 
 --------------------------------------------------------------------------------------
 
-[<img height="100" width="100" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">](https://www.linkedin.com/in/connor-roelofsen/)
+[<img height="150" width="150" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">](https://www.linkedin.com/in/connor-roelofsen/)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=grconnor&repo=client_admin_el_gaucho_nyheter)](https://github.com/grconnor/client_admin_el_gaucho_nyheter)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=grconnor&repo=client_user_el_gaucho_nyheter)](https://github.com/grconnor/client_user_el_gaucho_nyheter)
