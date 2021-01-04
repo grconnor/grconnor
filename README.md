@@ -31,6 +31,8 @@
 ![Express.js](https://img.shields.io/badge/-Express-430098?style=flat-square)
 ![Semaphore](https://img.shields.io/badge/-Semaphore-grey?19A974?style=flat-square&logo=semaphore-ci)
 ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress)
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest)
+![RSpec](https://img.shields.io/badge/-RSpec-red?430098?style=flat-square)
 ![SemanticUI](https://img.shields.io/badge/-Semantic%20UI-430098?style=flat-square)
 ![MaterialUI](https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=flat-square&logo=materialui)
 ![Webpack](https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=flat-square&logo=webpack)
@@ -49,8 +51,6 @@
 ![TravisCI](https://img.shields.io/badge/travisci%20-%232B2F33.svg?&style=flat-square&logo=travisci)
 ![PivotalTracker](https://img.shields.io/badge/-Pivotal%20Tracker-430098?style=flat-square&logo=pivotaltracker)
 ![Coveralls](https://img.shields.io/badge/-Coveralls-3F5767?style=flat-square&logo=coveralls)
-![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest)
-![RSpec](https://img.shields.io/badge/-RSpec-red?430098?style=flat-square)
 
 
 --------------------------------------------------------------------------------------
