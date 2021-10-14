@@ -6,8 +6,8 @@
 - 📍  Currently living in Stockholm, Sweden.
 - ⏱️  Started my development journey in 2020.
 - 📖  Currently learning / diving deeper into: 
--     Ubuntu, Apache2, private hosting, domain management,
--     Cloudflare, MongoDB and MySQL.
+-     Ubuntu, LAMP, Cloudflare, MongoDB and 
+-     MySQL.
 ```
 
 --------------------------------------------------------------------------------------
