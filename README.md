@@ -69,3 +69,6 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=grconnor&repo=api_el_gaucho_nyheter)](https://github.com/grconnor/api_el_gaucho_nyheter)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=grconnor&repo=connorroelofsen.com_and_subdomains)](https://github.com/grconnor/connorroelofsen.com_and_subdomains)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=grconnor&repo=connorroelofsen.com)](https://github.com/grconnor/connorroelofsen.com)
+
+--------------------------------------------------------------------------------------
+
