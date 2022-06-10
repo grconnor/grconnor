@@ -12,7 +12,7 @@
 
 --------------------------------------------------------------------------------------
 
-### My Languages:
+### Languages:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby)
@@ -23,7 +23,7 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?&style=flat-square&logo=markdown)
 
 
-### My Frameworks and Tools:
+### Frameworks and Tools:
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000?style=flat-square&logo=ruby-on-rails)
 ![React-Native](https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=flat-square&logo=react-native)
