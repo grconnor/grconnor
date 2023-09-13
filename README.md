@@ -117,17 +117,17 @@ Feel free to get in touch with me through the following:
 
 ---
 
-![Connor's Github Stats](https://github-readme-stats.vercel.app/api?username=grconnor&show_icons=true&theme=radical)
+![Connor's Github Stats](https://github-readme-stats.vercel.app/api?username=grconnor&show_icons=true&theme=midnight-purple&hide=stars, contribs)
 
 <!-- [![Connor's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=grconnor)](https://github.com/grconnor/github-readme-stats) -->
 
 ---
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=grconnor&repo=client_admin_el_gaucho_nyheter&bg_color=000000)](https://github.com/grconnor/client_admin_el_gaucho_nyheter)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=grconnor&repo=client_user_el_gaucho_nyheter&bg_color=000000)](https://github.com/grconnor/client_user_el_gaucho_nyheter)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=grconnor&repo=mobile_el_gaucho_nyheter&bg_color=000000)](https://github.com/grconnor/mobile_el_gaucho_nyheter)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=grconnor&repo=api_el_gaucho_nyheter&bg_color=000000)](https://github.com/grconnor/api_el_gaucho_nyheter)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=grconnor&repo=connorroelofsen.com&bg_color=000000)](https://github.com/grconnor/connorroelofsen.com)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=grconnor&repo=connorroelofsen.com_and_subdomains&bg_color=000000)](https://github.com/grconnor/connorroelofsen.com_and_subdomains)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=grconnor&repo=client_admin_el_gaucho_nyheter&bg_color=000000&theme=midnight-purple)](https://github.com/grconnor/client_admin_el_gaucho_nyheter)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=grconnor&repo=client_user_el_gaucho_nyheter&bg_color=000000&theme=midnight-purple)](https://github.com/grconnor/client_user_el_gaucho_nyheter)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=grconnor&repo=mobile_el_gaucho_nyheter&bg_color=000000&theme=midnight-purple)](https://github.com/grconnor/mobile_el_gaucho_nyheter)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=grconnor&repo=api_el_gaucho_nyheter&bg_color=000000&theme=midnight-purple)](https://github.com/grconnor/api_el_gaucho_nyheter)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=grconnor&repo=connorroelofsen.com&bg_color=000000&theme=midnight-purple)](https://github.com/grconnor/connorroelofsen.com)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=grconnor&repo=connorroelofsen.com_and_subdomains&bg_color=000000&theme=midnight-purple)](https://github.com/grconnor/connorroelofsen.com_and_subdomains)
 
 ---
