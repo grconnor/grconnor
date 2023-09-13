@@ -117,7 +117,7 @@ Feel free to get in touch with me through the following:
 
 ---
 
-![Connor's Github Stats](https://github-readme-stats.vercel.app/api?username=grconnor&show_icons=true&theme=midnight-purple&hide=stars, contribs)
+![Connor's Github Stats](https://github-readme-stats.vercel.app/api?username=grconnor&show_icons=true&theme=midnight-purple&hide=stars,contribs)
 
 <!-- [![Connor's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=grconnor)](https://github.com/grconnor/github-readme-stats) -->
 
