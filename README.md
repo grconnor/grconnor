@@ -10,9 +10,16 @@
 
 ---
 
+<!-- Contact  -->
+<!-- Proton -->
+<!-- https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white -->
+
+<!-- LinkedIn -->
+<!-- https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white -->
+
 ### Languages:
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logologo=html5&logoColor=white)
+<!-- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logologo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white)
@@ -20,13 +27,25 @@
 ![Node.js](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js&logoColor=white)
 ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) -->
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-430098?style=for-the-badge&logologo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-230167ff?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-black?style=for-the-badge&logo=sass&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Nodejs-007ACC?style=for-the-badge&logo=Node.js&logoColor=white)
+![Ruby](https://img.shields.io/badge/-Ruby-430098?style=for-the-badge&logo=ruby&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-230167ff?style=for-the-badge&logo=python&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-black?style=for-the-badge&logo=markdown&logoColor=white)
+![SHELL-SCRIPT](https://img.shields.io/badge/Shell_Script-007ACC?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### Frameworks, Libraries and Tools:
 
 ![MACOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![WINDOWS](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![CENTOS](https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white)
+![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![REACT](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&logoColor=white)
 ![REACT-NATIVE](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=white)
 ![RAILS](https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000?style=for-the-badge&logo=ruby-on-rails)
@@ -36,6 +55,7 @@
 ![ITERM2](https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white)
 ![JIRA](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 ![GATSBY](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![WORDPRESS](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![EXPRESS.JS](https://img.shields.io/badge/-Express.js-430098?style=for-the-badge&logo=express.js&logoColor=white)
 ![SEMAPHORE](https://img.shields.io/badge/semaphore-230167ff?style=for-the-badge&logo=semaphore&logoColor=white)
@@ -53,7 +73,6 @@
 ![GITLAB](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 ![BITBUCKET](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![AMAZON AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![SHELL-SCRIPT](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![HEROKU](https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![DIGITALOCEAN](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?&style=for-the-badge&logo=digitalocean&logoColor=white)
@@ -67,6 +86,9 @@
 ![Coveralls](https://img.shields.io/badge/-Coveralls-3F5767?style=for-the-badge&logo=coveralls)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-23009639?style=for-the-badge&logo=google%20analytics&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![AmazonAWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ---
 
