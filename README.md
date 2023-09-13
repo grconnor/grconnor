@@ -32,13 +32,18 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-430098?style=for-the-badge&logologo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-230167ff?style=for-the-badge&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-C21325?style=for-the-badge&logo=css3&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-black?style=for-the-badge&logo=sass&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Nodejs-007ACC?style=for-the-badge&logo=Node.js&logoColor=white)
 ![Ruby](https://img.shields.io/badge/-Ruby-430098?style=for-the-badge&logo=ruby&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-230167ff?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-C21325?style=for-the-badge&logo=python&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-black?style=for-the-badge&logo=markdown&logoColor=white)
 ![SHELL-SCRIPT](https://img.shields.io/badge/Shell_Script-007ACC?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+black?
+007ACC
+430098
+C21325
 
 ### Frameworks, Libraries and Tools:
 
