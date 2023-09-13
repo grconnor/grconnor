@@ -13,14 +13,14 @@
 ### Languages:
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logologo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6??style=for-the-badge&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js&logoColor=white)
 ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logologo=markdown&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 ### Frameworks, Libraries and Tools:
 
@@ -37,7 +37,7 @@
 ![JIRA](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 ![GATSBY](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white)
 ![WORDPRESS](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![EXPRESS.JS](https://img.shields.io/badge/-Express-430098?style=for-the-badge&logo=express.js&logoColor=white)
+![EXPRESS.JS](https://img.shields.io/badge/-Express.js-430098?style=for-the-badge&logo=express.js&logoColor=white)
 ![SEMAPHORE](https://img.shields.io/badge/semaphore-230167ff?style=for-the-badge&logo=semaphore&logoColor=white)
 ![CYPRESS](https://img.shields.io/badge/-Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![ESLINT](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
@@ -48,14 +48,14 @@
 ![SEMANTIC-UI](https://img.shields.io/badge/semantic%20ui-35BDB2?style=for-the-badge&logo=semanticuireact&logoColor=white)
 ![MATERIAL-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 ![WEBPACK](https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=white)
-[GIT](https://img.shields.io/git?style=for-the-badge&logo=git&logoColor=white)
+[GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GITHUB](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-[GITLAB](https://img.shields.io/badge/gitlab?style=for-the-badge&logo=gitlab&logoColor=white)
+[GITLAB](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 ![BITBUCKET](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![AMAZON AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![SHELL-SCRIPT](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![HEROKU](https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![Netlify](https://img.shields.io/netlify-000000?style=for-the-badge&logo=netlify&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![DIGITALOCEAN](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?&style=for-the-badge&logo=digitalocean&logoColor=white)
 ![APACHE](https://img.shields.io/badge/apache%20-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=white)
 ![NGINX](https://img.shields.io/badge/nginx%20-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white)
