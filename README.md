@@ -33,7 +33,7 @@ Feel free to get in touch with me through the following:
 
 ### Frontend:
 
-![NextJS](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/-React-C21325?style=for-the-badge&logo=react&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-430098?style=for-the-badge&logo=react&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-007ACC?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -44,13 +44,12 @@ Feel free to get in touch with me through the following:
 ### Backend:
 
 ![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-black?style=for-the-badge&logo=ruby-on-rails)
-![Express.js](https://img.shields.io/badge/-Express.js-C21325?style=for-the-badge&logo=express.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-C21325?style=for-the-badge&logo=express.js&logoColor=white)
 ![Wordpress](https://img.shields.io/badge/Wordpress-430098?style=for-the-badge&logo=wordpress&logoColor=white)
 
 ### Testing:
 
 ![Cypress](https://img.shields.io/badge/-Cypress-black?style=for-the-badge&logo=cypress&logoColor=white)
-![Semaphore](https://img.shields.io/badge/semaphore-C21325?style=for-the-badge&logo=semaphore&logoColor=white)
 ![Jest](https://img.shields.io/badge/-Jest-430098?style=for-the-badge&logo=jest&logoColor=white)
 ![RSpec](https://img.shields.io/badge/RSpec-007ACC?style=for-the-badge&logo=ruby&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman&logoColor=white)
@@ -83,7 +82,8 @@ Feel free to get in touch with me through the following:
 
 ### CI/CD:
 
-![TravisCI](https://img.shields.io/badge/travis_CI-black?style=for-the-badge&logo=travisci&logoColor=white)
+![Travis CI](https://img.shields.io/badge/travis_CI-black?style=for-the-badge&logo=travisci&logoColor=white)
+![Semaphore CI](https://img.shields.io/badge/Semaphore%20CI-C21325?logo=semaphoreci&logoColor=fff&style=for-the-badge)
 
 ### Version Control:
 
