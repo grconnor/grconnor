@@ -53,7 +53,8 @@ You can reach out to me at [![ProtonMail](https://img.shields.io/badge/ProtonMai
 ![Semaphore](https://img.shields.io/badge/semaphore-C21325?style=for-the-badge&logo=semaphore&logoColor=white)
 ![Jest](https://img.shields.io/badge/-Jest-430098?style=for-the-badge&logo=jest&logoColor=white)
 <!-- ![RSpec](https://img.shields.io/RSpec-007ACC?style=for-the-badge&logo=rspec&logoColor=white) -->
-![RSpec](https://img.shields.io/badge/RSpec-007ACC?style=for-the-badge&logo=https://raw.githubusercontent.com/grconnor/icons/main/rspec.svg&logoColor=white)
+![RSpec](https://img.shields.io/badge/RSPEC-007ACC?style=for-the-badge&logo=rspec&logoColor=white)
+
 ![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman&logoColor=white)
 ![Coveralls](https://img.shields.io/badge/-Coveralls-C21325?style=for-the-badge&logo=coveralls)
 ![ESLint](https://img.shields.io/badge/eslint-430098?style=for-the-badge&logo=eslint&logoColor=white)
