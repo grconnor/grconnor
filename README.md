@@ -1,6 +1,6 @@
 ### About Me
 
-I'm a 21-year-old front-end web developer based in Stockholm, Sweden, with a passion for learning and creating amazing web experiences. Born in the Republic of South Africa, I'm open to exciting opportunities and always eager to expand my skills.
+I'm a 22-year-old front-end web developer based in Stockholm, Sweden, with a passion for learning and creating amazing web experiences. Born in the Republic of South Africa, I'm open to exciting opportunities and always eager to expand my skills.
 
 ## Contact:
 
