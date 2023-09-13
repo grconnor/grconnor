@@ -4,8 +4,6 @@ I'm a 21-year-old front-end web developer based in Stockholm, Sweden, with a pas
 
 ## Contact:
 
-You can reach out to me at [![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:connor.roelofsen@protonmail.com) and [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/connor-roelofsen).
-
 Feel free to get in touch with me through the following:
 [![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:connor.roelofsen@protonmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/connor-roelofsen)
@@ -125,11 +123,11 @@ Feel free to get in touch with me through the following:
 
 ---
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=grconnor&repo=client_admin_el_gaucho_nyheter)](https://github.com/grconnor/client_admin_el_gaucho_nyheter)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=grconnor&repo=client_user_el_gaucho_nyheter)](https://github.com/grconnor/client_user_el_gaucho_nyheter)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=grconnor&repo=mobile_el_gaucho_nyheter)](https://github.com/grconnor/mobile_el_gaucho_nyheter)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=grconnor&repo=api_el_gaucho_nyheter)](https://github.com/grconnor/api_el_gaucho_nyheter)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=grconnor&repo=connorroelofsen.com_and_subdomains)](https://github.com/grconnor/connorroelofsen.com_and_subdomains)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=grconnor&repo=connorroelofsen.com)](https://github.com/grconnor/connorroelofsen.com)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=grconnor&repo=client_admin_el_gaucho_nyheter&bg_color=000000)](https://github.com/grconnor/client_admin_el_gaucho_nyheter)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=grconnor&repo=client_user_el_gaucho_nyheter&bg_color=000000)](https://github.com/grconnor/client_user_el_gaucho_nyheter)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=grconnor&repo=mobile_el_gaucho_nyheter&bg_color=000000)](https://github.com/grconnor/mobile_el_gaucho_nyheter)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=grconnor&repo=api_el_gaucho_nyheter&bg_color=000000)](https://github.com/grconnor/api_el_gaucho_nyheter)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=grconnor&repo=connorroelofsen.com&bg_color=000000)](https://github.com/grconnor/connorroelofsen.com)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=grconnor&repo=connorroelofsen.com_and_subdomains&bg_color=000000)](https://github.com/grconnor/connorroelofsen.com_and_subdomains)
 
 ---
