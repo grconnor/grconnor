@@ -1,10 +1,12 @@
 ![Header](./assets/header.png)
 
+![Header2](https://capsule-render.vercel.app/api?text=Hi%20There,%20I%27m%20Connor,&desc=A%20web%20developer%20focused%20on%20frontend&type=waving&color=430098&fontColor=fff&fontAlignY=35&fontSize=50&animation=fadeIn&height=150)
+
 ### About Me
 
 I'm a 22-year-old web developer, born in the Republic of South Africa, based in Stockholm, Sweden, with a passion for learning and creating amazing web experiences. I'm open to exciting opportunities and always eager to expand my skills.
 
-## Contact:8a90c7
+## Contact:
 
 <!-- Proton old: 8B89CC -->
 Feel free to get in touch with me through the following:  
