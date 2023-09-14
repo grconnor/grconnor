@@ -1,3 +1,5 @@
+![Header](./assets/header.png)
+
 ### About Me
 
 I'm a 22-year-old front-end web developer based in Stockholm, Sweden, with a passion for learning and creating amazing web experiences. Born in the Republic of South Africa, I'm open to exciting opportunities and always eager to expand my skills.
@@ -114,6 +116,10 @@ Feel free to get in touch with me through the following:
 ### Design and Collaboration:
 
 ![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+### Visitor Count
+<img src="https://profile-counter.glitch.me/grconnor/count.svg" />
 
 ---
 
