@@ -3,9 +3,10 @@
 
 <!-- ![Header Animation](https://grconnor.github.io/svg_text_animation/index.html) -->
 
-<div align="center">
+<!-- <div align="center">
   <img src="./assets/greeting-speed.gif" alt="greeting gif" />
-</div>
+</div> -->
+<img src="./assets/greeting_speed.gif" alt="greeting gif" />
 
 ![Banner](https://capsule-render.vercel.app/api?text=A%20web%20developer%20focused%20on%20frontend&type=waving&color=430098&fontColor=fff&fontAlignY=35&fontSize=35&animation=fadeIn&height=150)
 <img src="./assets/banner.png" />
