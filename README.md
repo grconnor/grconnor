@@ -1,8 +1,9 @@
 
 <!-- ![Header](https://capsule-render.vercel.app/api?text=Hi%20There,%20I%27m%20Connor,&desc=A%20web%20developer%20focused%20on%20frontend&type=waving&color=430098&fontColor=fff&fontAlignY=35&fontSize=50&animation=fadeIn&height=150) -->
-![Header Animation](https://grconnor.github.io/svg_text_animation)
+![Header Animation](https://grconnor.github.io/svg_text_animation/index.html)
 ![Banner](https://capsule-render.vercel.app/api?text=A%20web%20developer%20focused%20on%20frontend&type=waving&color=430098&fontColor=fff&fontAlignY=35&fontSize=35&animation=fadeIn&height=150)
 <img src="./assets/banner.png">
+<svg>
 
 ### About Me
 
