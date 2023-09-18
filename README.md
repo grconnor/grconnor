@@ -1,14 +1,10 @@
 
 <!-- ![Header](https://capsule-render.vercel.app/api?text=Hi%20There,%20I%27m%20Connor,&desc=A%20web%20developer%20focused%20on%20frontend&type=waving&color=430098&fontColor=fff&fontAlignY=35&fontSize=50&animation=fadeIn&height=150) -->
 
-<!-- ![Header Animation](https://grconnor.github.io/svg_text_animation/index.html) -->
-
-<!-- <div align="center">
-  <img src="./assets/greeting-speed.gif" alt="greeting gif" />
-</div> -->
 <img src="./assets/greeting_speed.gif" alt="greeting gif" />
 
 ![Banner](https://capsule-render.vercel.app/api?text=A%20web%20developer%20focused%20on%20frontend&type=waving&color=430098&fontColor=fff&fontAlignY=35&fontSize=35&animation=fadeIn&height=150)
+
 <img src="./assets/banner.png" />
 
 ### About Me
@@ -17,8 +13,8 @@ I'm a 22-year-old web developer, born in the Republic of South Africa, based in 
 
 ## Contact:
 
-<!-- Proton old: 8B89CC -->
-Feel free to get in touch with me through the following:  
+Feel free to get in touch with me through the following:
+
 [![ProtonMail](https://img.shields.io/badge/ProtonMail-8a90c7?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:connor.roelofsen@protonmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/connor-roelofsen)
 
