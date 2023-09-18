@@ -6,6 +6,7 @@
 <div align="center" style="background-color: black; padding: 20px;">
   <p style="color: white;">
     <!-- <img src="./assets/greeting-speed.gif" alt="greeting gif"> -->
+    Hi
   </p>
 </div>
 
