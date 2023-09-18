@@ -3,7 +3,11 @@
 
 <!-- ![Header Animation](https://grconnor.github.io/svg_text_animation/index.html) -->
 
-<iframe src="./assets/gif.html> frameborder="0" scrolling="no" width="100%" />
+<div align="center" style="background-color: black; padding: 20px;">
+  <p style="color: white;">
+    <img src="./assets/greeting-speed.gif" alt="greeting gif">
+  </p>
+</div>
 
 ![Banner](https://capsule-render.vercel.app/api?text=A%20web%20developer%20focused%20on%20frontend&type=waving&color=430098&fontColor=fff&fontAlignY=35&fontSize=35&animation=fadeIn&height=150)
 <img src="./assets/banner.png">
